@@ -15,7 +15,7 @@ import Homepricing from "./servicePrice/homeprice";
 function Home(){
     return(
         <>
-        {/* <Homepricing/> */}
+        {/*<Homepricing/>*/}
         {/* <Drycleanpage/> */}
         {/* <Plumberpage/> */}
         {/* <Electricitypage/> */}
