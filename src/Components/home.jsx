@@ -15,16 +15,16 @@ import Homepricing from "./servicePrice/homeprice";
 function Home(){
     return(
         <>
-        <Homepricing/>
+        {/* <Homepricing/> */}
         {/* <Drycleanpage/> */}
         {/* <Plumberpage/> */}
         {/* <Electricitypage/> */}
         {/* <Cleanpage/> */}
-        {/* <div className="main">
+        <div className="main">
             <Menu/>
             <Homepage/>
             <Footer/>
-        </div> */}
+        </div>
         </>
         
         
