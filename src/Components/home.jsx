@@ -20,11 +20,11 @@ function Home(){
         {/* <Plumberpage/> */}
         {/* <Electricitypage/> */}
         {/* <Cleanpage/> */}
-        <div className="main">
+        {/* <div className="main">
             <Menu/>
             <Homepage/>
             <Footer/>
-        </div>
+            </div>*/}
         </>
         
         
