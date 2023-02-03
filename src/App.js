@@ -1,10 +1,16 @@
 import React from "react"
 import Home from "./Components/home";
+import Footer from "./footer";
+import Homepage from "./Components/hompage";
 
 function App() {
   return (
     <>
-    <Home/>
+    <div className="main">
+            <Menu/>
+            <Homepage/>
+            <Footer/>
+            </div>
     </>
   );
 }
