@@ -28,7 +28,7 @@ code {
   justify-content: space-between;
   align-items: center;
   height: 40px;
-  padding: 0rem 1rem;
+  padding: 1.5rem 1rem;
 
 }
 .menuList{
@@ -84,7 +84,6 @@ border-radius: 0px 40px 40px 0px;
 color: #FFFFFF;
 }
 .auth_Menu{
-  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -668,7 +667,7 @@ padding-bottom: 0.5rem;
   padding-bottom: 3rem;
  }
  .hire_image{
-  padding: 0rem 9rem;
+  padding: 0rem 2rem;
  }
  .hire_line{
   width: 90%;
@@ -842,7 +841,13 @@ color: #4F4F4F;
   display: flex;
   width: 100%;
   justify-content:flex-start;
-  gap: 8rem;
+  gap: 3rem;
+}
+.hAddress{
+  display: flex;
+  width: 100%;
+  justify-content:flex-start;
+  gap: 3rem;
 }
 .biodataH5{
  font-family: 'Lato';
@@ -908,7 +913,7 @@ margin-top: 0.5rem;
   display: flex;
   width: 100%;
   justify-content:flex-start;
-  gap: 8rem;
+  gap: 3rem;
   padding-bottom: 3rem;
 }
 
@@ -931,7 +936,7 @@ margin-top: 0.5rem;
   display: flex;
   width: 100%;
   justify-content:flex-start;
-  gap: 8rem;
+  gap: 3rem;
   padding-bottom: 3rem;
 }
 
@@ -1032,11 +1037,13 @@ font-style: normal;
 font-weight: 800;
 font-size: 30px;
 line-height: 36px;
+
+color: #F15B30;
 padding-right: 10rem;
 }
 .data_cancel{
-  width: 207.67px;
-height: 55px;
+  width: 200px;
+height: 45px;
 background: #FFFFFF;
 border-radius: 20px;
 outline: none;
@@ -1050,11 +1057,11 @@ box-shadow: 4px 4px 4px 4px rgba(122, 94, 94, 0.19);
 color: #F15B30;
 }
 .Submits{
-  padding: 0rem 7rem;
+  padding: 0rem 4rem;
 }
 .data_sub{
-  width: 207.67px;
-height: 55px;
+  width: 200px;
+height: 45px;
 background: #F15B30;
 border-radius: 20px;
 font-family: 'Lato';
@@ -1168,7 +1175,7 @@ line-height: 38px;
 /* or 192% */
 /* Neutral/normal */
 color: #4F4F4F;
-padding-left: 3rem;
+padding-left: 5rem;
 }
 .priceTag{
    width: 20%;
@@ -1184,6 +1191,7 @@ color: #10059F;
 .pricingbutton{
   width: 40%;
 text-align: center;
+padding-left: 4rem;
 }
 .pricingBtn{
   width: 239px;
@@ -1204,7 +1212,7 @@ border-radius: 15px;
 .complaint{
   display: flex;
   flex-direction: column;
-  padding-top: 15rem;
+  padding-top: 10rem;
 
   
 }
@@ -1247,8 +1255,8 @@ color: #4F4F4F;
   padding-right: 4rem;
 }
 .complainInput{
-  width: 1013px;
-height: 445px;
+  width: 813px;
+height: 345px;
 background: #FFFFFF;
 border: 1px solid #7070C1;
 }

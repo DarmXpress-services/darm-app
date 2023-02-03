@@ -9,10 +9,10 @@ function Plumberingpricing(){
         <div className="pricing_form">
 
     <h4 className="priceWord1">
-        House cleaning form.
+        Plumbering repair form.
     </h4>
     <h6 className="priceWord2">
-        When applying for house cleaning form, please input the right information
+        When applying for plumbering form, please input the right information
     </h6>
     <div className="priceSection1">
         <div className="priceSection2">
@@ -30,8 +30,7 @@ function Plumberingpricing(){
         <div className="breakLine"></div>
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet abnsd bathroom
-            </h4>
+               Kitchen tap replacement quantity 1             </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -47,8 +46,7 @@ function Plumberingpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full cleaning package<br/> withtoilet and bathroom
-            </h4>
+              Kitchen tap Replacement quality 2            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -64,7 +62,72 @@ function Plumberingpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet and bathroom
+             Kitchen tap Replacement quality 3            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+          
+            
+        </div>
+        <div className="breakLine"></div>
+
+        <div className="servPrice">
+            <h4 className="priceName">
+                Bathroom Flood drain            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+           
+            
+        </div>
+        <div className="breakLine"></div>
+
+        <div className="servPrice">
+            <h4 className="priceName">
+                Replacement of bathroom flood drain pipe 
+            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+           
+            
+        </div>
+        <div className="breakLine"></div>
+
+        <div className="servPrice">
+            <h4 className="priceName">
+                Building control tap replacement
+            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+          
+            
+        </div>
+        <div className="breakLine"></div>
+        <div className="servPrice">
+            <h4 className="priceName">
+               Pipe burst Repair
             </h4>
             <h4 className="priceTag">
                 3000
@@ -81,43 +144,7 @@ function Plumberingpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Complete cleaning of bathroom flat<br/> with toilet and bathroom
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-           
-            
-        </div>
-        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Full package of 3-bathroom ,<br/>1 bathroom,1 -toilet , 
-                sitting room<br/> and kitchen 
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-           
-            
-        </div>
-        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Full cleaning services of 4 bathroom<br/> 4-bedroom flat, 2-bathroom,
-                <br/>2-toilet,sitting room and kitchen
+                piping House
             </h4>
             <h4 className="priceTag">
                 3000
@@ -138,8 +165,7 @@ function Plumberingpricing(){
         <span className="complainWord">
             <h4 className="priceComplain1">Complaint not listed?</h4>
             <h6 className="priceComplain2">
-                If your complaints are not listed above, kindly
-             type it below
+                Pipe burst Repair
             </h6>
         </span>
         <div className="complainInfo">

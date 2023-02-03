@@ -22,7 +22,7 @@ function Drycleaning_page(){
                     Personal
                 </h4>
                 <h5 className="biodataH5">
-                    When applying for house cleaning,<br/>
+                    When applying for dry cleaning,<br/>
                     please input the right information
                 </h5>
 
@@ -72,7 +72,7 @@ function Drycleaning_page(){
                     Pickup and delivery Address
                 </h4>
                 <h5 className="biodataH5">
-                    When applying for house cleaning,<br/> 
+                    When applying for dry cleaning,<br/> 
                     please input the right information
                 </h5>
 
@@ -98,63 +98,8 @@ function Drycleaning_page(){
 
         </div>
 
-<div className="break_line"></div>
-
-        <div className="nin">
-            <div className="nin_words">
-                <h4 className="biodataH4">
-                    National Identification
-                </h4>
-                <h5 className="biodataH5">
-                    When applying for Fundraising,<br/> 
-                    please input the right information
-                </h5>
-
-            </div>
-            <div className="pers_form">
-                <form action="get">
-                    <span>
-                        <span>
-                            <h4>Name On Your ID*</h4>
-                        <input className="name_id" type="text"/>
-                        </span>
-                        <span>
-                            <h4>ID Number*</h4>
-                        <input className="id_no" placeholder="USS" type="number"/>
-                        </span>
-                        <span>
-                            <h4>ID Front Picture*</h4>
-                        <input className="picture" type="image"/>
-                        </span>
-
-                    </span>
-                    <span>
-                       <span>
-                            <h4>Date of Birth On The ID*</h4>
-                        <input className="birth_id" type="date"/>
-                        </span>
-                        <span>
-                            <h4>ID Last Name*</h4>
-                        <input className="id_lname" type="text"/>
-                        </span>
-                        <span>
-                            <h4>ID Back Picture*</h4>
-                        <input className="picture" type="image"/>
-                        </span>
-
-                    </span>
-
-                </form>
-
-            </div>
-
-        </div>
-
     </div>
     <div className="data_submit">
-         <span className="cleanSubmit">
-                Best Cleaning Service
-            </span>
         <span className="cancelSubmit">
            
             <button className="data_cancel">
@@ -171,7 +116,7 @@ function Drycleaning_page(){
     </div>
 
 
-</div>
+        </div>
         
         </>
     )

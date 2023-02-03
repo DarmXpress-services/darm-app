@@ -1,5 +1,5 @@
 import React from "react";
-// import from "../darm-icon.png";
+import { Link } from "react-router-dom";
 
 function Menu(){
     return(
@@ -13,7 +13,9 @@ function Menu(){
        <div className="navBar_menu">
         <ul className="menuList">
             <li className="lists">
+                <Link to="/home">
                 Home
+                </Link>
             </li>
             <li className="lists">
                 Services

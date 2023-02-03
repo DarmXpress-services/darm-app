@@ -8,11 +8,10 @@ function OfficePricing(){
         <div className="pricing_form">
 
     <h4 className="priceWord1">
-        House cleaning form.
+        Office cleaning 
     </h4>
     <h6 className="priceWord2">
-        When applying for house cleaning form, please input the right information
-    </h6>
+       When applying for office cleaning form, please input the right information    </h6>
     <div className="priceSection1">
         <div className="priceSection2">
             <h4 className="priceWord3">
@@ -29,8 +28,7 @@ function OfficePricing(){
         <div className="breakLine"></div>
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet abnsd bathroom
-            </h4>
+             Single room office            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -46,8 +44,7 @@ function OfficePricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full cleaning package<br/> withtoilet and bathroom
-            </h4>
+             Double room office            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -60,76 +57,6 @@ function OfficePricing(){
             
         </div>
        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Single room full clesning without<br/> toilet and bathroom
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-          
-            
-        </div>
-        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Complete cleaning of bathroom flat<br/> with toilet and bathroom
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-           
-            
-        </div>
-        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Full package of 3-bathroom ,<br/>1 bathroom,1 -toilet , 
-                sitting room<br/> and kitchen 
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-           
-            
-        </div>
-        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Full cleaning services of 4 bathroom<br/> 4-bedroom flat, 2-bathroom,
-                <br/>2-toilet,sitting room and kitchen
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-          
-            
-        </div>
-        <div className="breakLine"></div>
 
     </div>
 

@@ -8,11 +8,10 @@ function Electricitypricing(){
         <div className="pricing_form">
 
     <h4 className="priceWord1">
-        House cleaning form.
+        Electricity repair form
     </h4>
     <h6 className="priceWord2">
-        When applying for house cleaning form, please input the right information
-    </h6>
+       When applying for Electricity repair form, please input the right information    </h6>
     <div className="priceSection1">
         <div className="priceSection2">
             <h4 className="priceWord3">
@@ -29,8 +28,7 @@ function Electricitypricing(){
         <div className="breakLine"></div>
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet abnsd bathroom
-            </h4>
+              1 room socket fault and replacement            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -46,8 +44,7 @@ function Electricitypricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full cleaning package<br/> withtoilet and bathroom
-            </h4>
+              1 room lampholder fault and repair            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -63,8 +60,7 @@ function Electricitypricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet and bathroom
-            </h4>
+              Room wiring            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -80,7 +76,23 @@ function Electricitypricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Complete cleaning of bathroom flat<br/> with toilet and bathroom
+              Extention box repair            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+           
+            
+        </div>
+        <div className="breakLine"></div>
+
+        <div className="servPrice">
+            <h4 className="priceName">
+                Cealing fan and standing fan repair 
             </h4>
             <h4 className="priceTag">
                 3000
@@ -97,8 +109,7 @@ function Electricitypricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Full package of 3-bathroom ,<br/>1 bathroom,1 -toilet , 
-                sitting room<br/> and kitchen 
+                Full house wiring
             </h4>
             <h4 className="priceTag">
                 3000
@@ -108,15 +119,29 @@ function Electricitypricing(){
                     Apply Here
                 </button>
             </span>
-           
+          
             
         </div>
         <div className="breakLine"></div>
-
         <div className="servPrice">
             <h4 className="priceName">
-                Full cleaning services of 4 bathroom<br/> 4-bedroom flat, 2-bathroom,
-                <br/>2-toilet,sitting room and kitchen
+                A room wiring
+            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+          
+            
+        </div>
+        <div className="breakLine"></div>
+        <div className="servPrice">
+            <h4 className="priceName">
+                self contain wiring
             </h4>
             <h4 className="priceTag">
                 3000

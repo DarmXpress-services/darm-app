@@ -9,10 +9,10 @@ function Drycleanpricing(){
         <div className="pricing_form">
 
     <h4 className="priceWord1">
-        House cleaning form.
+        Cloth Dry Cleaning
     </h4>
     <h6 className="priceWord2">
-        When applying for house cleaning form, please input the right information
+        When applying for dry cleaning form, please input the right information
     </h6>
     <div className="priceSection1">
         <div className="priceSection2">
@@ -30,7 +30,7 @@ function Drycleanpricing(){
         <div className="breakLine"></div>
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet abnsd bathroom
+                Agbada(coloured)
             </h4>
             <h4 className="priceTag">
                 3000
@@ -47,8 +47,42 @@ function Drycleanpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full cleaning package<br/> withtoilet and bathroom
+                Agbada(white)             
+                </h4>
+            <h4 className="priceTag">
+                3000
             </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+            
+            
+        </div>
+
+       <div className="breakLine"></div>
+
+       <div className="servPrice">
+            <h4 className="priceName">
+            Complete Native(white)            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+            
+            
+        </div>
+
+       <div className="breakLine"></div>
+
+       <div className="servPrice">
+            <h4 className="priceName">
+             Complete Native(coloured)            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -64,8 +98,7 @@ function Drycleanpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Single room full clesning without<br/> toilet and bathroom
-            </h4>
+             Packing suit            </h4>
             <h4 className="priceTag">
                 3000
             </h4>
@@ -81,7 +114,23 @@ function Drycleanpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Complete cleaning of bathroom flat<br/> with toilet and bathroom
+              Trouser            </h4>
+            <h4 className="priceTag">
+                3000
+            </h4>
+            <span className="pricingbutton">
+                <button className="pricingBtn">
+                    Apply Here
+                </button>
+            </span>
+           
+            
+        </div>
+        <div className="breakLine"></div>
+
+        <div className="servPrice">
+            <h4 className="priceName">
+                Lady Gown(white)
             </h4>
             <h4 className="priceTag">
                 3000
@@ -98,26 +147,7 @@ function Drycleanpricing(){
 
         <div className="servPrice">
             <h4 className="priceName">
-                Full package of 3-bathroom ,<br/>1 bathroom,1 -toilet , 
-                sitting room<br/> and kitchen 
-            </h4>
-            <h4 className="priceTag">
-                3000
-            </h4>
-            <span className="pricingbutton">
-                <button className="pricingBtn">
-                    Apply Here
-                </button>
-            </span>
-           
-            
-        </div>
-        <div className="breakLine"></div>
-
-        <div className="servPrice">
-            <h4 className="priceName">
-                Full cleaning services of 4 bathroom<br/> 4-bedroom flat, 2-bathroom,
-                <br/>2-toilet,sitting room and kitchen
+                Lady Gown(coloured)
             </h4>
             <h4 className="priceTag">
                 3000
@@ -168,3 +198,4 @@ function Drycleanpricing(){
 </div></>
     )
 }
+export default Drycleanpricing;
